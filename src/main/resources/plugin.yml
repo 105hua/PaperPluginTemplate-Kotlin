@@ -1,0 +1,4 @@
+name: PaperPluginTemplateKotlin
+version: '1.0-SNAPSHOT'
+main: joshdev.paperPluginTemplateKotlin.PaperPluginTemplateKotlin
+api-version: '1.21'
